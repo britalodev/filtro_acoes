@@ -4,6 +4,8 @@
 
 # personal
 mvnw
+target
+
 
 # Compiled class file
 *.class
