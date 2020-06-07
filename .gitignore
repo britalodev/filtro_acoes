@@ -1,3 +1,10 @@
+#folders
+/.idea
+/.mvn
+
+# personal
+mvnw
+
 # Compiled class file
 *.class
 
